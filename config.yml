@@ -43,7 +43,7 @@ embed:
     timestamp: true # Include a timestamp in the nodes embed (true/false).
     color: "5865F2" # Embed color in hex format.
     footer:
-      text: "By @HirziDevs" # Footer text for nodes stats.
+      text: "By LunerHost" # Footer text for nodes stats.
       icon: "" # Footer icon URL.
     thumbnail: "" # Thumbnail URL for the nodes stats embed.
     image: "" # Image URL for the nodes stats embed.
@@ -53,7 +53,7 @@ button:
   enable: true # Enable or disable buttons in messages.
   row1:
     - label: "Panel" # Label for the first button.
-      url: "https://panel.example.com" # URL for the first button.
+      url: "https://panel.lunerhost.in" # URL for the first button.
 #    - label: "Dashboard" # Remove "#" at the start of the line to use this button
 #      url: "https://dash.example.com" # Remove "#" at the start of the line to use this button
 #  row2: # Remove "#" at the start of the line to use this row
