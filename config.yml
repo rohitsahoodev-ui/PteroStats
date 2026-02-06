@@ -41,7 +41,7 @@ embed:
     title: "Nodes Stats" # Title for the nodes stats embed.
     description: "" # Description for the nodes stats embed. Can be left empty.
     timestamp: true # Include a timestamp in the nodes embed (true/false).
-    color: "5865F2" # Embed color in hex format.
+    color: "FF00FF" # Embed color in hex format.
     footer:
       text: "By LunerHost" # Footer text for nodes stats.
       icon: "" # Footer icon URL.
